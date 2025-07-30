@@ -1,4 +1,4 @@
-const API_URL = "http://54.174.97.84:5000";  // Replace with your EC2 IP if different
+const API_URL = "http://--.---.--.--:5000";  // Replace with your EC2 IP if different
 
 // Upload file to backend
 async function uploadFile() {
